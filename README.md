@@ -38,13 +38,23 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karan635&show_icons=true&theme=radical&cache_seconds=1800" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=karan635&theme=radical" height="180"/>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=karan635&label=Profile%20views&color=0e75b6&style=flat" alt="karan635" /> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan635&layout=compact&theme=radical&cache_seconds=1800" />
+<!-- GitHub Trophy (optional, uncomment if you want) -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karan635" alt="karan635" /></a> </p> -->
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karan635&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800" alt="karan635" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karan635&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="karan635" />
+</p>
+
+<p>
+  <img align="center" src="https://streak-stats.demolab.com?user=karan635&theme=radical" alt="karan635" />
 </p>
 
 
